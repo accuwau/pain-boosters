@@ -4,6 +4,9 @@ created by me and [maxmetalparts](https://github.com/MaxMetalParts)
 
 <img src="https://raw.githubusercontent.com/accuwau/pain-boosters/refs/heads/pain-boosters/media/demo.gif" title="" alt="border3.jpg" width="600">
 
+SPOILERS!!!1 [demo](https://youtu.be/v0b6htpsh0k)
+
+
 This is a mod for [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) that requires [Crus ModLoader](https://github.com/CruS-Modding-Infrastructure/crus-modloader) to run.
 
 Replaces gunk with blood...
