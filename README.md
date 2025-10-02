@@ -15,11 +15,14 @@ Replaces gunk with blood...
 
 Real pain edition buffs implants at the cost of health.
 
+<img src="https://raw.githubusercontent.com/accuwau/pain-boosters/refs/heads/pain-boosters/media/demo2.gif" title="" alt="border3.jpg" width="600">
+mileage MAAAYY vary (this is not how the mod actually works)
+
 ## Installation
 
 1. Make sure [Crus ModLoader](https://github.com/crus-modloader) is installed and set up.
 2. click the green "Code" button and press "Download Zip"
-3. For regular edition extract and move the "Pain Boosters" folder into (`%appdata%\Godot\app_userdata\Cruelty Squad\mods`, and for linux users: `~/.local/share/Steam/steamapps/compatdata/1388770/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Cruelty Squad/mods`), respective for pain edition.
+3. For regular edition extract and move the "Pain Boosters" (or painful edition) folder into (`%appdata%\Godot\app_userdata\Cruelty Squad\mods`, and for linux users: `~/.local/share/Steam/steamapps/compatdata/1388770/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Cruelty Squad/mods`)
 4. Launch the game, the mod should now be active :D.
 
 ## Notes
